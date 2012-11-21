@@ -3,9 +3,9 @@ Welcome to Foundation
 
 Foundation is the most advanced responsive front-end framework in the world. With Foundation you can quickly prototype and build sites or apps that work on any kind of device, with tons of included layout constructs (like a full responsive grid), elements and best practices.
 
-Homepage:      http://foundation.zurb.com  
-Documentation: http://foundation.zurb.com/docs  
-Download:      http://foundation.zurb.com/download.php  
+Homepage:      http://foundation.zurb.com
+Documentation: http://foundation.zurb.com/docs
+Download:      http://foundation.zurb.com/download.php
 
 Foundation is MIT-licensed and absolutely free to use. Foundation wouldn't be possible without the support of the entire ZURB team, our friends and colleagues who gave feedback, and some luminaries who did some heavy lifting that we took advantage of (thanks guys).
 
@@ -33,10 +33,13 @@ WordPress
 
 * [Starter Theme](https://github.com/drewsymo/Foundation) by Drew Morris
 * [Reverie](http://themefortress.com/reverie/) by Zhen
+* [WP-Foundation](http://320press.com/wp-foundation/features/) by 320press
+* [Yeti](https://github.com/modlearning/Yeti) by Modular Learning
 
 Joomla
 
 * [Joomla Template](https://github.com/meridiansoftech/joomla_foundation_template) by Arnold Mwumva Ford, Meridian Softech
+* [Joomla Template](https://github.com/antonydoyle/siegeengine) by Antony Doyle, Siege21
 
 Drupal
 
@@ -56,7 +59,10 @@ MODX
 
 .NET
 
-* [NuGet Package for ASP.Net MVC](http://www.nuget.org/packages/Zurb_Foundation_MVC3) by Edward Charbeneau, @EdCharbeneau
+* [NuGet Package for ASP.Net MVC](http://www.nuget.org/packages/Foundation3_MVC4) by Edward Charbeneau, @EdCharbeneau
+
+Python
+* [Pyramid Scaffold](https://github.com/ppinette/pyramid_foundation) by Parker Pinette
 
 CodeIgniter
 
@@ -84,6 +90,14 @@ Grid displayer
 
 * [Grid displayer bookmarklet](http://alefeuvre.github.com/foundation-grid-displayer/) by [Antoine Lefeuvre](http://twitter.com/jiraisurfer)
 * [Responsive Design Bookmarklet](http://responsive.victorcoulon.fr/) by [Victor Coulon](https://twitter.com/_victa)
+
+Modular Scale
+
+* [Modular Scale](https://github.com/scottkellum/modular-scale) by Mason Wendell and Scott Kellum
+
+Ruby on Rails SASS Gems
+
+* [Foundation Icons 2](https://github.com/zaiste/foundation-icons-sass-rails) by J. P. Nowak
 
 MIT Open Source License
 =======================
